@@ -1,0 +1,1 @@
+nbviewer for rendering: [https://nbviewer.org/github/s-knauer/nlp-edra/blob/main/Approach%201/notebook/Variational_AutoEncoder.ipynb](https://nbviewer.org/github/s-knauer/nlp-edra/blob/main/Approach%201/notebook/Variational_AutoEncoder.ipynb)
